@@ -1,9 +1,9 @@
 # ----------------- Load Required Libraries -----------------
-#install.packages("tidyverse")
-#install.packages("ggplot2")
-#install.packages("plotly")
-#install.packages("GGally")
-#install.packages("corrplot")
+install.packages("tidyverse")
+install.packages("ggplot2")
+install.packages("plotly")
+install.packages("GGally")
+install.packages("corrplot")
 
 library(tidyverse)
 library(ggplot2)
